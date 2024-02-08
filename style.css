@@ -39,6 +39,7 @@ li{
 }
 
 .right_back{
+    position: absolute;
     height: 330px;
     width: 340px;
 
@@ -281,10 +282,12 @@ div ul li{
 }
 
 #fhon_prof{
+
     background-color: #343434;
 
     margin: 0 auto;
     margin-top: 14px;
+
 
     height: 300px ;
     width: 900px ;
